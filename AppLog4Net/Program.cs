@@ -36,7 +36,7 @@ namespace AppLog4Net
             Console.WriteLine($"Execution time: {stopwatch.ElapsedMilliseconds} ms");
 
             // Log execution time
-            ILog log = LogManager.GetLogger(typeof(Program));
+            //ILog log = LogManager.GetLogger(typeof(Program));
             log.Info($"Input: {input} - Time: {stopwatch.ElapsedMilliseconds} ms");
         }
     }
