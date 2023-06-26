@@ -1,0 +1,11 @@
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\bin\Debug\AppLog4Net.exe.config
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\bin\Debug\AppLog4Net.exe
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\bin\Debug\AppLog4Net.pdb
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\bin\Debug\log4net.dll
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\bin\Debug\log4net.xml
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\obj\Debug\AppLog4Net.csproj.AssemblyReference.cache
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\obj\Debug\AppLog4Net.csproj.SuggestedBindingRedirects.cache
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\obj\Debug\AppLog4Net.csproj.CoreCompileInputs.cache
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\obj\Debug\AppLog4Net.csproj.CopyComplete
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\obj\Debug\AppLog4Net.exe
+D:\Documents\מסמכים\ראיונות עבודה\AppLog4Net\AppLog4Net\obj\Debug\AppLog4Net.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLog4Net", "AppLog4Net\AppLog4Net.csproj", "{2BDDA9D2-CA72-44F5-A31D-46E8ACAB7E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDDA9D2-CA72-44F5-A31D-46E8ACAB7E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDDA9D2-CA72-44F5-A31D-46E8ACAB7E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDDA9D2-CA72-44F5-A31D-46E8ACAB7E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDDA9D2-CA72-44F5-A31D-46E8ACAB7E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0A9569-2272-4043-AA89-A7FF49380B94}
+	EndGlobalSection
+EndGlobal
